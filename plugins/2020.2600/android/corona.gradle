@@ -1,7 +1,3 @@
 dependencies {
     implementation 'com.google.android.libraries.play.games:inputmapping:1.0.0-beta'
-    implementation 'androidx.annotation:annotation:1.4.0'
-    implementation 'org.atteo.classindex:classindex:3.4'
-    implementation files('libs/com.farr311.solarbridge.jar')
-    annotationProcessor('org.atteo.classindex:classindex:3.4')
 }
