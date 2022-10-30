@@ -2,7 +2,7 @@ local metadata =
 {
 	plugin =
 	{
-		format = 'aar',
+		format = 'jar',
 		manifest = 
 		{
 		},
