@@ -1,0 +1,6 @@
+dependencies {
+    implementation 'com.google.android.libraries.play.games:inputmapping:1.0.0-beta'
+    implementation 'androidx.annotation:annotation:1.4.0'
+    implementation 'org.atteo.classindex:classindex:3.4'
+    annotationProcessor 'org.atteo.classindex:classindex:3.4'
+}
